@@ -20,16 +20,7 @@ plt.title("Distribution of Scoring For Each Category")
 ```
 
 
-
-
-    Text(0.5, 1.0, 'Distribution of Scoring For Each Category')
-
-
-
-
-
-
-![png](Demo_files/Demo_2_1.png)
+<img width="727" alt="Demo2" src="https://user-images.githubusercontent.com/67394270/89647136-0b4ef880-d88b-11ea-8e35-620d84cb9b49.png">
 
 
 
